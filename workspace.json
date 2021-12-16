@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "authoring": "apps/authoring",
     "hub": "apps/hub",
     "hub-e2e": "apps/hub-e2e"
   }
